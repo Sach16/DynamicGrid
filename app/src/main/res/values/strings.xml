@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DynamicGrid</string>
+
+    <string name="submit_txt">Submit</string>
+    <string name="rows_txt">Rows</string>
+    <string name="columns_txt">Columns</string>
+    <string name="numeric">0123456789</string>
+</resources>
